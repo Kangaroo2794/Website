@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Random Colors 
 
-You can use the [editor on GitHub](https://github.com/Kangaroo2794/Website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Do you need a random color for a picture?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The link http://www.shodor.org/~ishaanr/PHP/colorgenerator.php will give you a random hex color code and the same color as the background.
 
 ### Markdown
 
