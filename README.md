@@ -8,3 +8,6 @@
 
 <h3> 50 States </h3>
 
+![50 states](https://user-images.githubusercontent.com/32223976/95734328-2e55aa00-0c38-11eb-922d-6e0621433699.png)
+
+[Learn_More](https://en.wikipedia.org/wiki/Flag_of_the_United_States)
